@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Havenlink",
+      "hasCanvas": false,
+      "bodyTextLen": 2952,
+      "bodyTextHash": "7005f8c4d2ea091c9a15ed62c180b2787045a40bfa63d98af7744957096b071c",
+      "bodyTextPrefix": "Skip to content Havenlink Product Care Hub Pricing Trust Open th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Havenlink",
+      "hasCanvas": false,
+      "bodyTextLen": 2912,
+      "bodyTextHash": "a9a2a3b0ae20fffbb9edcfb896b7bf812bc73b7fcfed2f78cbd3b0c8a4119fcd",
+      "bodyTextPrefix": "Skip to content Havenlink Hub Care, without the crisis desk Neve",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
